@@ -1,6 +1,4 @@
-# MAXTECH-MD-V2-
-THIS IS MAXTECH MD V2  DEVELOPED BY MAXTECH
- # MAXTECH_MD-V2 
+# MAXTECH-MD-V2 
    <a><img src='https://i.imgur.com/LyHic3iY.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
@@ -23,7 +21,9 @@ THIS IS MAXTECH MD V2  DEVELOPED BY MAXTECH
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
- ##MAXTECH_MD-V2 Deployment Methods
+ 
++MAXTECH_MD-V2+ WERE YOU CAN DEPLOY 
+
 
 ### 1. FORK THIS REPO
 
@@ -71,7 +71,7 @@ THIS IS MAXTECH MD V2  DEVELOPED BY MAXTECH
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2349066528353"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/256760500488"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/deecee_x"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
